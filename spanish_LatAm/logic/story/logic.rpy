@@ -4,7 +4,7 @@
 translate spanish_LatAm Boat_1_1_1526fd1a:
 
     # ch_Name "{i}(I already feel like it's going to be a great weekend.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ya siento que tendré un gran fin de semana.){/i}"
 
 # game/logic/story/logic.rpy:1113
 translate spanish_LatAm Boat_1_1_3c464fcc:
